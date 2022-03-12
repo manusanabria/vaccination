@@ -1,0 +1,41 @@
+body {
+  overflow-x: hidden;
+}
+
+.img-brand {
+  width: 250px;
+}
+
+/* .header {
+  padding-top: 80px;
+} */
+
+h1,
+h2,
+h3,
+h6 {
+  color: #17265b !important;
+}
+
+i {
+  background-color: #17265b;
+  color: #ffffff;
+  padding: 5px;
+  margin: 5px;
+}
+
+.shield {
+  width: 25px;
+}
+
+.star {
+  width: 25px;
+}
+
+footer {
+  background-color: #d6dffc;
+}
+
+/* .navbar-nav {
+  margin-left: 550px;
+} */
